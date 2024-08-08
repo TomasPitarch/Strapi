@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_custom_user_configurations",
+  "info": {
+    "displayName": "User Configurations",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Key": {
+      "type": "string"
+    },
+    "Data": {
+      "type": "json"
+    }
+  }
+}
